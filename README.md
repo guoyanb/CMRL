@@ -1,6 +1,6 @@
 # CMRL
 Causal Metapath-based Heterogeneous Graph Modeling and Synergistic Representation Learning for disease triple-wise association mining 
-Submitted to journal IEEE Transactions on Knowledge and Data Engineering
+Submitted to journal IEEE Transactions on Neural Networks and Learning Systems
 
 Complete code and data are coming
 
