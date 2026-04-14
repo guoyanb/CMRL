@@ -203,7 +203,7 @@ class FourierPositionEmbedding(nn.Module):
         return enhanced_features
 
 class CMRL(nn.Module):
-    """Causal Multi-relational Learning model with Bayesian feature learning"""
+    """Causal Metapath-guided Heterogeneous Graph Representation Learning"""
     def __init__(self, device, meta_paths, test_data, in_size, hidden_size, num_heads, dropout, etypes):
         super(CMRL, self).__init__()
         self.device = device
